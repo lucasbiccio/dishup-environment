@@ -1,0 +1,36 @@
+1;Argentina;Argentina
+2;Bebidas;Bebidas
+3;Carnes;Carnes
+4;Comida Alema;Comida Alema
+5;Comida Arabe;Comida Arabe
+6;Comida Asiatica;Comida Asiatica
+7;Comida Brasileira;Comida Brasileira
+8;Comida Chinesa;Comida Chinesa
+9;Comida Contemporanea;Comida Contemporanea
+10;Comida Francesa;Comida Francesa
+11;Comida Indiana;Comida Indiana
+12;Comida Italiana;Comida Italiana
+13;Comida Japonesa;Comida Japonesa
+14;Comida Marroquina;Comida Marroquina
+15;Comida Mediterranea;Comida Mediterranea
+16;Comida Mexicana;Comida Mexicana
+17;Comida Mineira;Comida Mineira
+18;Comida Portuguesa;Comida Portuguesa
+19;Comida Regional;Comida Regional
+20;Comida Saudavel;Comida Saudavel
+21;Comida Tailandesa;Comida Tailandesa
+22;Comida Variada;Comida Variada
+23;Delicatessen;Delicatessen
+24;Esfiharia;Esfiharia
+25;Frutos do Mar;Frutos do Mar
+26;Galeteria;Galeteria
+27;Hamburgueria;Hamburgueria
+28;Internacional;Internacional 
+29;Kebaberia;Kebaberia
+30;Lanches e Sanduaches;Lanches e Sanduaches
+31;Lanches Premium;Lanches Premium
+32;Padarias;Padarias
+33;Pastelaria;Pastelaria
+34;Pizza;Pizza
+35;Pizza Premium;Pizza Premium
+36;Sorvetes;Sorvetes

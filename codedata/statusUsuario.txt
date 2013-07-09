@@ -1,0 +1,6 @@
+1;Ativo;Usuario ativo para utilizacao dos servicos Dish Up.
+2;Bloqueado;Usuario bloqueado para utilizacao dos servicos Dish Up.
+3;Excluido;Usuario excluido logicamente dentro do sistema Dish Up.
+4;Pendente de troca de senha;Usuario pendente de troca de senha atraves do link liberado pela Dish Up.
+5;Troca de senha expirada;Usuario solicitou a troca de senha, porem nao trocou. Deve solicitar a troca novamente na Dish Up.
+6;Pendente de Ativacao;Usuario pendente de ativacao para utilizacao dos servicos da Dish Up.

@@ -1,0 +1,2 @@
+1;Restaurante Ativo; Restaurante Ativo no Sistema
+2;Restaurante Bloqueado; Restaurante Bloqueado no Sistema

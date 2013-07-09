@@ -1,0 +1,4 @@
+1;Consumidor;Usuario Consumidor (usuario comum)
+2;Restaurante;Usuario Restaurante
+3;Restaurante-Master;Usuario master do Restaurante
+4;Dish Up;Usuario da equipe Dish Up 

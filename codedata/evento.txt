@@ -1,0 +1,3 @@
+1;Sign Up Consumidor;Cadastro do consumidor no sistema
+2;Login Usuario - Sucesso; Login efetuado com sucesso
+3;Login Usuario - Falha; Falha na tentativa de login 

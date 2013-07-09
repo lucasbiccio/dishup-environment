@@ -1,0 +1,3 @@
+1;Empregado;Usuario empregado do Restaurante
+2;Gerente; Gerente do Restaurante
+3;Proprietario; Proprietario do Restaurante

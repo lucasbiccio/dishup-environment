@@ -1,0 +1,4 @@
+1;Dish Up Website para Consumidores;Canal utilizado pelos usuarios Comsumidores atravas da Internet no site www.dishup.com.br
+2;Dish Up Website para Restaurantes;Canal utilizado pelos Restaurantes para controlar promocoes/cardapio/cadastro no site www.dishuprestaurante.com.br
+3;Dish Up Mobile para Consumidores - Iphone;Canal utilizado pelos usuarios atraves do celular na plataforma iOS (iPhone)
+4;Dish Up Mobile para Consumidores - Android;Canal utilizado pelos usuarios atraves do celular na plataforma Android
